@@ -13,17 +13,17 @@
 { 
   "Matric":{
     "school":"PAEC Model College, Nilore Isb",
-    "totalMarks:1050,
+    "totalMarks":1050,
     "obtainedMarks":967,
   },
     "FSC":{
     "college":"PAEC Model College, Nilore Isb",
-    "totalMarks:1050,
+    "totalMarks":1050,
     "obtainedMarks":950,
   },
     "BS":{
     "university":"Comsats University,Isb",
-    "totalGPA:4,
+    "totalGPA":4,
     "cgpa":3.56,
   }
 
