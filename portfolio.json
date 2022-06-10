@@ -1,55 +1,52 @@
 {
-"aboutMe":
-{
-"fullName":"Mahrukh",
-"email":"mahrukhaan005@gmail.com",
-"website":"https://github.com/Mahrukh-aan",
-"address":"Shaheen Town, Islamabad",
-"profilePic":"https://lh3.googleusercontent.com/a-/AOh14Gg7fGW24kjOAI20UIUBbJWaLl6gyXcLn34TFtD6=s360-p-rw-no",
-"linkedin":"https://www.linkedin.com/in/mahrukh-khan-6b2652221/"
+	"aboutMe": {
+		"fullName": "Mahrukh",
+		"email": "mahrukhaan005@gmail.com",
+		"website": "https://github.com/Mahrukh-aan",
+		"address": "Shaheen Town, Islamabad",
+		"profilePic": "https://lh3.googleusercontent.com/a-/AOh14Gg7fGW24kjOAI20UIUBbJWaLl6gyXcLn34TFtD6=s360-p-rw-no",
+		"linkedin": "https://www.linkedin.com/in/mahrukh-khan-6b2652221/"
+	},
+	"education": [
 
-},
-"education":
-{ 
-  "Matric":{
-    "school":"PAEC Model College, Nilore Isb",
-    "totalMarks":1050,
-    "obtainedMarks":967,
-  },
-    "FSC":{
-    "college":"PAEC Model College, Nilore Isb",
-    "totalMarks":1050,
-    "obtainedMarks":950,
-  },
-    "BS":{
-    "university":"Comsats University,Isb",
-    "totalGPA":4,
-    "cgpa":3.56,
-  }
-
-},
-
-"workExperience":
-{
-  "Fiver":{
-    "title":"Graphic Designer"
-    "joined":"2019"
-  }
-
-},
-"skills":
-{
-   "Graphic Designing",
-   "Web Development",
-   "Mobile App Development",
-   "Video Editing",
-   "Programming"
-},
-
-"contact":
-{
-  "email":"mahrukhaan005@gmail.com",
-  "linkedin":"https://www.linkedin.com/in/mahrukh-khan-6b2652221/"
-}
+		{
+			"Matric": {
+				"school": "PAEC Model College, Nilore Isb",
+				"totalMarks": 1050,
+				"obtainedMarks": 967
+			}
+		},
+		{
+			"FSC": {
+				"college": "PAEC Model College, Nilore Isb",
+				"totalMarks": 1050,
+				"obtainedMarks": 950
+			}
+		},
+		{
+			"BS": {
+				"university": "Comsats University,Isb",
+				"totalGPA": 4,
+				"cgpa": 3.56
+			}
+		}
+	],
+	"workExperience": {
+		"Fiver": {
+			"title": "Graphic Designer",
+			"joined": "2019"
+		}
+	},
+	"skills": [
+		"Graphic Designing",
+		"Web Development",
+		"Mobile App Development",
+		"Video Editing",
+		"Programming"
+	],
+	"contact": {
+		"email": "mahrukhaan005@gmail.com",
+		"linkedin": "https://www.linkedin.com/in/mahrukh-khan-6b2652221/"
+	}
 
 }
