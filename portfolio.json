@@ -11,36 +11,36 @@
 
 		{
 		
-			"title":"Matric",
-			"institution": "PAEC Model College, Nilore Isb",
-			"major":"Computer",
-			"grade": "A"
+		"title":"Matric",
+		"institution": "PAEC Model College, Nilore Isb",
+		"major":"Computer",
+		"grade": "A"
 			
 			
 		},
 		{
 			
-			"title":"FSC",
-			"institution": "PAEC Model College, Nilore Isb",
-			"major":"Engineering",
-			"grade":"A"
+		"title":"FSC",
+		"institution": "PAEC Model College, Nilore Isb",
+		"major":"Engineering",
+		"grade":"A"
 			
 		},
-		{
-			"title":"BS-CS",
-		        "institution": "Comsats University,Isb",
-			"major":"Computer Science",
-			"grade": "A"
-				
-			}
+	        {
+		"title":"BS-CS",
+		"institution": "Comsats University,Isb",
+		"major":"Computer Science",
+		"grade": "A"	
 		}
+		
 	],
 	"workExperience": [
 	        {
-			"Fiver": {
-				"title": "Graphic Designer",
-				"joined": "2019"
-			}
+			
+		"title": "Graphic Designer",
+		"company":"Fiverr",
+		"joined": "2019"
+			
 		}
 
 	],
