@@ -31,12 +31,15 @@
 			}
 		}
 	],
-	"workExperience": {
-		"Fiver": {
-			"title": "Graphic Designer",
-			"joined": "2019"
+	"workExperience": [
+	        {
+			"Fiver": {
+				"title": "Graphic Designer",
+				"joined": "2019"
+			}
 		}
-	},
+
+	],
 	"skills": [
 		"Graphic Designing",
 		"Web Development",
