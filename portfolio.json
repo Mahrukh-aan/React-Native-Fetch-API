@@ -10,24 +10,28 @@
 	"education": [
 
 		{
-			"Matric": {
-				"school": "PAEC Model College, Nilore Isb",
-				"totalMarks": 1050,
-				"obtainedMarks": 967
-			}
+		
+			"title":"Matric",
+			"institution": "PAEC Model College, Nilore Isb",
+			"major":"Computer",
+			"grade": "A"
+			
+			
 		},
 		{
-			"FSC": {
-				"college": "PAEC Model College, Nilore Isb",
-				"totalMarks": 1050,
-				"obtainedMarks": 950
-			}
+			
+			"title":"FSC",
+			"institution": "PAEC Model College, Nilore Isb",
+			"major":"Engineering",
+			"grade":"A"
+			
 		},
 		{
-			"BS": {
-				"university": "Comsats University,Isb",
-				"totalGPA": 4,
-				"cgpa": 3.56
+			"title":"BS-CS",
+		        "institution": "Comsats University,Isb",
+			"major":"Computer Science",
+			"grade": "A"
+				
 			}
 		}
 	],
